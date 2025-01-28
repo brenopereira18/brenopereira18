@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas na faculdade UNINTER. Profissional com perfil empreendedor, comunicativo e com facilidade em aprender novas tecnologias. Experiência prática em layouts front-end, criação de microsserviços, automatização de fluxos de trabalho, integração front e back-end, desenvolvimento de aplicações e testes, implantação de softwares com abordagem DevOps e experiência com SQL e banco de dados.
+Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas Experiência prática em layouts front-end, criação de microsserviços, automatização de fluxos de trabalho, integração front e back-end, desenvolvimento de aplicações e testes, implantação de softwares com abordagem DevOps e experiência com SQL e banco de dados.
 
 <a href="https://www.linkedin.com/in/breno-pereira-betti/">
   <img src="https://custom-icon-badges.demolab.com/badge/-LinkdIn-blue?style=for-the-badge&logoColor=white" alt="LinkdIn" title="LinkdIn"/>
