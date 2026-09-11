@@ -88,45 +88,8 @@ Entre as principais atividades:
 
 ---
 
-## Projetos
-
-### Sistemas em produção
-
-Experiência no desenvolvimento de sistemas internos voltados à automação e organização de processos administrativos.
-
-**Principais tecnologias:** Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, Redis, JavaScript, HTML, Tailwind CSS e Docker.
-
-Entre as soluções desenvolvidas estão sistemas para:
-
-* Gestão de documentos e processos administrativos.
-* Controle e gerenciamento de banco de horas.
-* Alocação e gerenciamento de vagas para serviços fiscais.
-* Automação de processos anteriormente realizados por meio de planilhas.
-
----
-
 ## Formação
 
 **Análise e Desenvolvimento de Sistemas**
 Centro Universitário Internacional — Uninter
 08/2024 – 12/2026
-
----
-
-## Atualmente
-
-* Aprofundando conhecimentos em **arquitetura de software e desenvolvimento backend**.
-* Estudando **Cloud e infraestrutura**.
-* Evoluindo conhecimentos em **boas práticas de engenharia de software, testes e CI/CD**.
-* Desenvolvendo projetos pessoais para aplicar e aprofundar conhecimentos.
-
----
-
-<div align="center">
-
-### Vamos construir algo?
-
-[LinkedIn](https://linkedin.com/in/breno-pereira-betti/) · [GitHub](https://github.com/brenopereira18)
-
-</div>
-
