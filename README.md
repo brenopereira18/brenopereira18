@@ -30,22 +30,25 @@ Também possuo experiência na investigação de problemas, correção de bugs, 
 
 **Prefeitura de Juiz de Fora — Estagiário em Engenharia de Software**
 
-Durante minha experiência, participei do desenvolvimento e manutenção de sistemas utilizados em processos administrativos reais.
+Atuei no desenvolvimento e manutenção de 4 sistemas web em produção, participando do ciclo completo de desenvolvimento, desde o levantamento de requisitos até implementação, testes, deploy e manutenção.
 
 Entre as principais atividades:
 
-* Desenvolvimento e manutenção de sistemas web em produção.
+* Desenvolvimento e manutenção de 4 sistemas web em produção, atuando no Backend e Frontend.
 * Desenvolvimento de APIs REST utilizando Java e Spring Boot.
 * Modelagem e persistência de dados com PostgreSQL e JPA/Hibernate.
 * Levantamento e validação de requisitos diretamente com stakeholders.
-* Investigação e correção de bugs.
+* Investigação e correção de bugs, incluindo problemas de consistência em regras de negócio e processamento entre filas.
 * Implementação e validação de funcionalidades.
-* Desenvolvimento de testes unitários e de integração.
-* Utilização de Postman para testes e validação de APIs.
+* Implementação de testes unitários e de integração com JUnit e Mockito, alcançando 85% de cobertura.
+* Otimização de consultas PostgreSQL, reduzindo o carregamento de uma tela de 8 para 2 segundos.
+* Implementação de 4 filas com Redis para distribuição automática de serviços, atendendo 70 fiscais por categoria e aproximadamente 32 serviços por mês, com notificações via WhatsApp e eliminação da triagem manual.
+* Substituição do controle de documentos em 3 planilhas por uma aplicação web centralizada, reduzindo em 80% o tempo de consulta e registro, de aproximadamente 10 para 2 minutos por documento, e economizando mais de 13 horas de trabalho por mês.
+* Desenvolvimento de sistema de banco de horas, automatizando cálculos de horas extras e permitindo consulta individual pelos fiscais.
+* Utilizei Bruno para testes e validação de APIs.
 * Containerização e deploy de aplicações com Docker.
-* Automação de processos de CI/CD utilizando GitHub Actions.
-* Implementação de funcionalidades utilizando Redis, incluindo gerenciamento de filas.
-* Substituição de processos baseados em planilhas por sistemas web com validações, controle de status, cálculos e rastreabilidade.
+* Automação de testes e deploy por meio de CI/CD com GitHub Actions.
+* Utilização de Swagger para documentação de APIs e SonarQube para acompanhamento da qualidade do código.
 
 ---
 
